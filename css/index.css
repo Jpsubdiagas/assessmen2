@@ -1,0 +1,141 @@
+
+body {
+    padding-top: 56px;
+    background: #ffffff;
+    font-family: 'Roboto', Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar {
+    width: 100%;
+    height: 10px;
+    background-color: darkgray;
+    color: black;
+    padding: 1%;
+   
+    
+}
+
+footer {
+    background-color: darkgray;
+    color: white;
+    height: 70px;
+    bottom: 0;
+}
+
+footer p {
+    padding: 1.5% 0 0 1.5%;
+   }
+footer a {
+    text-decoration: none;
+    list-style: none;
+}
+
+/** Home Section **/
+#HomeSection {
+    padding: 0;
+    margin: 0;
+}
+
+#JumbotronImage {
+    width: 100%;
+    height: auto;
+    min-height: 50%;
+    max-height: 1020px;
+    margin: 0;
+    margin-top: 90px;
+
+}
+
+.jumbotronTextOnImages {
+    position: absolute;
+    width: 100%;
+ 
+}
+
+h1#JumbotronHeading {
+    color: #fff;
+    text-align: center;
+    font-size: 5vw;
+    font-family: serif;
+    text-shadow: 0 0 5px #343934;
+    margin: 20% 0 0 0;
+    padding: 10px 20px;
+}
+p.jumbotronTextOnImages {
+    color: #fff;
+    text-align: center;
+    font-size: 6vw;
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 0 0 5px #343934;
+    margin-top: 25%;
+    padding-top: 20px;
+    line-height: normal;
+}
+p.jumbotronTextOnImages strong {
+    font-size: 1.5em;
+    color: #519548;
+    
+}
+.rounded {
+    max-height: 10rem;
+    margin: 5% 25%; 
+  
+}
+
+/*AboutUsSection*/
+#AboutUsSection {
+    margin-top: 100px;
+    padding-top: 80px;
+}
+
+.carousel {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+.carousel img {
+    width: 100%;
+    height: 300px;
+}
+/*Sign In*/
+.carSign {
+    width: 150px;
+}
+#SignInSection {
+    
+    margin-top: 100px;
+    padding-top: 70px;
+}
+/* Companies logos*/
+#companiesLogos {
+    width: 100%;
+    height: 550px;
+    background-color: grey;
+    margin: 0;
+    padding: 20px;
+    overflow: scroll;
+            
+}
+.img-responsive {
+    width: 100%;
+    height: auto;
+    margin-top: 15%; 
+}
+/** Contact Section **/
+#ContactSection {
+    background-color: #bababa;
+    color: #fff;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+#ContactButtonContainer {
+    margin-top: 10px;
+}
+
+
+
+
