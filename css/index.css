@@ -65,8 +65,6 @@ footer a {
     margin: 0;
     background-image: url("../images/Road-pics2.jpg");
     height: 100vh; 
-
-    /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -136,23 +134,26 @@ p.hometitle {
     margin-top:0px;
     padding-top: 70px;
 }
+
 /* Companies logos*/
 #companiesContainer {
     width: 100%;
     height: 500px;
     background-color: #363636;
     margin: 0;
-    padding: 30px;
-                
+    padding: 30px;          
 }
+
 .recipient {
     justify-content: center;
 }
+
 .companysLogo {
     width: 100%;
     height: auto;
     margin: 10px; 
 }
+
 /** Contact Section **/
 #ContactSection {
     background-color: #bababa;
